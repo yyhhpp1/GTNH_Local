@@ -1,0 +1,17 @@
+{
+  "id": "sacking node_-766,66,-1186",
+  "name": "sacking node",
+  "icon": "waypoint-normal.png",
+  "x": -766,
+  "y": 66,
+  "z": -1186,
+  "r": 114,
+  "g": 92,
+  "b": 107,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

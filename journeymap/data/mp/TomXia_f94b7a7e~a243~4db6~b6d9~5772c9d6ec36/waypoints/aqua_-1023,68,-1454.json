@@ -1,0 +1,17 @@
+{
+  "id": "aqua_-1023,68,-1454",
+  "name": "aqua",
+  "icon": "waypoint-normal.png",
+  "x": -1023,
+  "y": 68,
+  "z": -1454,
+  "r": 30,
+  "g": 213,
+  "b": 110,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
